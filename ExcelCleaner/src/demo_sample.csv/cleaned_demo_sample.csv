@@ -1,0 +1,6 @@
+date,description,amount,category
+2024-01-05,Lunch,250.0,Food
+2024-01-06,Taxi,100.0,Transport
+2024-01-06,Taxi,325.0,Transport
+,Groceries,450.0,Food
+,Unknown,500.0,Other
