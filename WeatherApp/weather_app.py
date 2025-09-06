@@ -1,3 +1,4 @@
+
 # weather_app.py
 """
 Simple Weather App (CLI)

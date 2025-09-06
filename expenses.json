@@ -1,0 +1,16 @@
+[
+  {
+    "id": "43de51462a5c4003aceb7080de3376c2",
+    "date": "2025-08-06",
+    "category": "groceries,clothes",
+    "amount": "990",
+    "note": "fruits"
+  },
+  {
+    "id": "fb25b59577354ecaa6fa7e740d309965",
+    "date": "2025-09-05",
+    "category": "CAR,FLIGHT",
+    "amount": "20000000000",
+    "note": ""
+  }
+]
